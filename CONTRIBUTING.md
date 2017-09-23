@@ -1,6 +1,6 @@
 # How to Contribute
 
-GitToken intends to use its own service to help ensure contributors are rewarded for their work with the community. Feel free to contribute to any of our repositories. If you want to discuss something more general about GitToken please submit an issue [here](https://github.com/gittoken/community/issues/).
+GitToken intends to use its own service to help ensure contributors are rewarded for their work with the community. Feel free to contribute to any of our repositories. If you want to discuss something more general about GitToken please submit an issue [here](https://github.com/git-token/community/issues).
 
 # Contributor Code of Conduct
 
