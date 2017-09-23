@@ -6,7 +6,7 @@ Keep in mind that these ideas don't have to precise. Suggestions on anything fro
 
 ## Support
 
-* [GitHub Issues](https://github.com/GitToken/community/issues)
+* [GitHub Issues](https://github.com/git-token/community/issues)
 * [Gitter](https://gitter.im/git-token/Lobby)
 * [Email Support](mailto:scott.moore@gittoken.io)
 
