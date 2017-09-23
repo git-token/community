@@ -8,7 +8,7 @@ Keep in mind that these ideas don't have to precise. Suggestions on anything fro
 
 * [GitHub Issues](https://github.com/git-token/community/issues)
 * [Gitter](https://gitter.im/git-token/Lobby)
-* [Email Support](mailto:scott.moore@gittoken.io)
+* [Email Support](mailto:scott.moore@gittoken.io,ryan.tate@gittoken.io)
 
 ## License
 
