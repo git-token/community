@@ -1,6 +1,6 @@
 # Join the GitToken Community
 
-GitToken is a community driven organization and as such we welcome feedback of any kind. If you have an idea that you want to share with us and the rest of the community not directly related to an existing repository open an issue [here](https://github.com/git-token/Members/issues).
+GitToken is a community driven organization and as such we welcome feedback of any kind. If you have an idea that you want to share with us and the rest of the community not directly related to an existing repository open an issue [here](https://github.com/git-token/community/issues).
 
 Keep in mind that these ideas don't have to precise. Suggestions on anything from features to marketing are welcome.
 
